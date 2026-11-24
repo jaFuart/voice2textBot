@@ -1,0 +1,6 @@
+aiogram>=3.7,<4
+aiosqlite>=0.20,<1
+faster-whisper>=1.2,<2
+pydantic>=2,<3
+python-dotenv>=1,<2
+yookassa>=3,<4

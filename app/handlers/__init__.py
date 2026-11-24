@@ -1,0 +1,1 @@
+from app.handlers.init import start_router, voice_router, payments_router
